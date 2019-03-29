@@ -434,6 +434,9 @@ static Key key[] = {
 	{ XK_F33,           XK_NO_MOD,      "\033[20;5~",    0,    0},
 	{ XK_F34,           XK_NO_MOD,      "\033[21;5~",    0,    0},
 	{ XK_F35,           XK_NO_MOD,      "\033[23;5~",    0,    0},
+	{ XK_Ccaron,	    XK_NO_MOD,	    "\033[C",	     0,    0},
+	{ XK_ccaron,	    XK_NO_MOD,	    "\033[c",	     0,	   0},
+	
 };
 
 /*

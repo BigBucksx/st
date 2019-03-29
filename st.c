@@ -76,6 +76,7 @@ enum cursor_state {
 enum charset {
 	CS_GRAPHIC0,
 	CS_GRAPHIC1,
+	CS_HR,
 	CS_UK,
 	CS_USA,
 	CS_MULTI,
