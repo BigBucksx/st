@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Source Code Pro for Powerline:style=Bold:pixelsize=14:antialias=true:autohint=true";
+//static char *font = "Source Code Pro for Powerline style=Bold:pixelsize=14:antialias=true:autohint=true";
+static char *font = "DejaVuSansMono:pixelsize=14";
 static int borderpx = 2;
 
 /*
